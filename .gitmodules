@@ -1,0 +1,3 @@
+[submodule "lib/UnityQuestionnaire"]
+	path = lib/UnityQuestionnaire
+	url = git@github.com:askemottelson/UnityQuestionnaire.git
